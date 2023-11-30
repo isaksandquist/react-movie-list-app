@@ -31,5 +31,3 @@ För VG
 -   Använd hooks: useRef
 -   Minst 5 komponenter
 -   Enhetligt formaterad kod (Använd https://prettier.io/ extension i VS Code)
-
-  **Laborationen ska helst vara gjord samma vecka men absolut senast innan kursens 12 veckor är avslutade**
